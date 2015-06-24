@@ -11,6 +11,8 @@ public class version {
 		System.out.println("Version4");
 		
 		System.out.println("Version5");
+		
+		System.out.println("Version6");
 	}
 
 }
